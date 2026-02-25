@@ -312,6 +312,11 @@ ul {
   display: none;
 }
 
+.webgl-content .footer .instructions {
+  text-align: right;
+  max-width: 60%;
+}
+
 /* widen main content so the WebGL canvas has room */
 .main {
   max-width: 72rem;
