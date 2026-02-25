@@ -329,4 +329,6 @@ ul {
 .game-shell-body {
   width: 100%;
   overflow-x: auto;
+  display: flex;
+  justify-content: center;
 }
