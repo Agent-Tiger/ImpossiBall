@@ -318,8 +318,7 @@ ul {
 }
 
 .content {
-  max-width: var(--max-width);
-  margin: 0 auto;
+  max-width: 100%;
 }
 
 .game-shell-body {
